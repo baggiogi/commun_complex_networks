@@ -6,7 +6,7 @@
     Author: Giacomo Baggio
     Email: baggio.giacomo@gmail.com
     Description: Compute and Plot Max Shannon Transmission Rate vs. Network Diameter for Non-normal Chain/2D Lattice "Layered" Architectures
-    Date created: 05/01/2018
+    Date created: 26/01/2018
     Date last modified: 23/02/2019
     Python Version: 2.7
 """
