@@ -6,8 +6,8 @@ This repository contains the code used in the the paper:
 
 In particular:
 
-- The folder `rate` contains the code for computing and plotting the behavior of the Shannon transmission rate over time for random and regular network topologies
+- The folder `rate` contains the Python scripts for computing and plotting the behavior of the Shannon transmission rate over time for random and regular network topologies
 
-- The folder `rate_max_vs_noise` contains the code for computing and plotting the behavior of the maximum Shannon transmission rate against readout noise level for random and regular network topologies
+- The folder `rate_max_vs_noise` contains the Python scripts for computing and plotting the behavior of the maximum Shannon transmission rate against readout noise level for random and regular network topologies
 
-- The folder `rate_max_vs_diameter` contains the code for computing and plotting the behavior of the maximum Shannon transmission rate against network diameter for random and regular non-normal networks built via "directed stratification" procedure
+- The folder `rate_max_vs_diameter` contains the Python scripts for computing and plotting the behavior of the maximum Shannon transmission rate against network diameter for random and regular non-normal networks built via "directed stratification" procedure
