@@ -15,4 +15,4 @@ In particular:
 ***
 
 Author : G. Baggio <br/>
-E-mail : giacomob [at] ucr.edu
+E-mail : giacomob [at] ucr [dot] edu
