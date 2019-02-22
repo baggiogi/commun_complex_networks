@@ -1,4 +1,4 @@
-# Readme 
+# Communication over Complex Networks 
 
 This repository contains the code used in the the paper:
 
@@ -11,3 +11,8 @@ In particular:
 - The folder `rate_max_vs_noise` contains the Python scripts for computing and plotting the behavior of the maximum Shannon transmission rate against readout noise level for random and regular network topologies
 
 - The folder `rate_max_vs_diameter` contains the Python scripts for computing and plotting the behavior of the maximum Shannon transmission rate against network diameter for random and regular non-normal networks built via "directed stratification" procedure
+
+***
+
+Authors : G. Baggio
+Email : giacomob [at] ucr.edu
