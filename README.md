@@ -14,6 +14,5 @@ In particular:
 
 ***
 
-Authors : G. Baggio
-
-Email : giacomob [at] ucr.edu
+Author : G. Baggio <br/>
+E-mail : giacomob [at] ucr.edu
