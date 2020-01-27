@@ -2,7 +2,7 @@
 
 This repository contains the code used in the the paper:
 
-> G. Baggio, V. Rutten, G. Hennequin, S. Zampieri "Efficient Communication over Complex Dynamical Networks", Submitted for publication, 2019. 
+> G. Baggio, V. Rutten, G. Hennequin, S. Zampieri "Efficient Communication over Complex Dynamical Networks: The Role of Matrix Non-Normality", Submitted for publication, 2019. 
 
 In particular:
 
