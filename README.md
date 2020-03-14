@@ -12,7 +12,7 @@ In particular:
 
 - The folder `rate_max_vs_diameter` contains the Python scripts for computing and plotting the behavior of the maximum transmission rate against network diameter for random and regular non-normal networks built via "directed stratification" procedure
 
-- The folder `c_elegans` contains the Python scripts for computing and plotting the behavior of the transmission rate against network diameter over time for the chemical synapse network of the nematode C. elegans
+- The folder `c_elegans` contains the Python scripts for computing and plotting the behavior of the transmission rate against transmission time for the chemical synapse network of the nematode C. elegans
 
 ***
 
