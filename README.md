@@ -17,4 +17,4 @@ In particular:
 ***
 
 Author : G. Baggio <br/>
-E-mail : baggio [dot] giacomo [at] gmail [dot] come
+E-mail : baggio [dot] giacomo [at] gmail [dot] com
