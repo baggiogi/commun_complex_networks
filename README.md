@@ -2,7 +2,7 @@
 
 This repository contains the code used in the the paper:
 
-> G. Baggio, V. Rutten, G. Hennequin, S. Zampieri "Efficient Communication over Complex Dynamical Networks: The Role of Matrix Non-Normality", Science Advances, to appear, 2020. 
+> G. Baggio, V. Rutten, G. Hennequin, S. Zampieri "Efficient Communication over Complex Dynamical Networks: The Role of Matrix Non-Normality", Science Advances, vol. 6, no. 22, eaba2282, 2020.
 
 - The folder `rate` contains the Python scripts for computing and plotting the behavior of the transmission rate over time for random and regular network topologies
 
